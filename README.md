@@ -1,5 +1,13 @@
-## Hi there 👋
+## Why DataDish404? 🤓
+As an INTJ personality 🕵️‍♀️ I love data and analysis, but I also love cooking 👩‍🍳 baking in particular 🥧 and even more experimenting 🧪 and making up recipes, as an SEO 404s are not dead end but means to start a conversation. 
 
+- 🔭 I’m currently working on build my agents on my own local machine
+- 🌱 I’m currently learning VisuaL Studio code with Claude Code
+- 👯 I’m looking to collaborate on SEO related projects and automations
+- 💬 Ask me about SEO/GEO/AEO whatever you want to call it
+- 📫 How to reach me: https://www.linkedin.com/in/irenececotti/
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: My friends and colleague tell me I have the superpower to multiplicate time but my real superpower is going bu byke with no hands and carrying the grocery shopping
 <!--
 **DataDish404/DataDish404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
