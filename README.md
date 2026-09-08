@@ -7,7 +7,7 @@ As an INTJ personality 🕵️‍♀️ I love data and analysis, but I also lov
 - 💬 Ask me about SEO/GEO/AEO whatever you want to call it
 - 📫 How to reach me: https://www.linkedin.com/in/irenececotti/
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: My friends and colleague tell me I have the superpower to multiplicate time but my real superpower is going bu byke with no hands and carrying the grocery shopping
+- ⚡ Fun fact: My friends and colleague tell me I have the superpower to multiplicate time but my real superpower is going by bike with no hands and carrying the groceries
 <!--
 **DataDish404/DataDish404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
